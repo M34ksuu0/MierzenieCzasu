@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1790842329 source:c:\users\egzamin\desktop\czasizlozonoscstruktur\main.cpp
+	<iostream>
+	<vector>
+	<stack>
+	<queue>
+	<chrono>
+	<cstdlib>
+	<ctime>
+	<algorithm>
+
